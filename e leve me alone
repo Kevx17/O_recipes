@@ -1,0 +1,23 @@
+[33mcommit eb48494eaa62975f2984325b448132e6dd6b1bf8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Koller Kevin <kevinkekoller1@gmail.com>
+Date:   Wed Feb 14 16:23:44 2024 +0100
+
+    i made some small unimportant changes for testing
+
+[33mcommit 9c20624899445bf8ac0e2f9457b8ba64f4384d62[m
+Author: Koller Kevin <kevinkekoller1@gmail.com>
+Date:   Wed Feb 14 16:19:42 2024 +0100
+
+    Add 123.txt
+
+[33mcommit 3225d4d5b0f42539d7319bd401771b03f9cf46fa[m
+Author: Koller Kevin <kevinkekoller1@gmail.com>
+Date:   Wed Feb 14 16:17:25 2024 +0100
+
+    i dont want a message but lets see what this does.
+
+[33mcommit 17b4b8c72f2d434e4ad21bd6b30602cae71eb2ae[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kevx17 <153546383+Kevx17@users.noreply.github.com>
+Date:   Wed Feb 14 16:11:11 2024 +0100
+
+    Initial commit
